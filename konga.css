@@ -779,7 +779,7 @@ footer .footer-second-container ul li a:hover {
     }
 
     .nav-media input[type="text"] {
-        width:200%;
+        width:290px;
         background-color: #f2f2f2;
         height: 40px;
         border: none;
@@ -787,12 +787,15 @@ footer .footer-second-container ul li a:hover {
         font-size: 12px;
         outline: none;
         margin-left: 10px;
+        border: 2px ;
     }
     
     .nav-media .fa-search {
         color: rgb(204, 204, 204);
         font-size: 15px;
-       margin-right: 15px;
+       margin-right: 10px;
+       
+
     }
 
     #deal {
